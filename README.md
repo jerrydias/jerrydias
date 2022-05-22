@@ -17,7 +17,7 @@
   <img align="center" alt="Jerry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jerry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jerry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="jerry" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thu…x-Desktop_computer_clipart_-_Yellow_theme.svg.png">
+  <img align="right" alt="jerry" height="150" style="border-radius:50px;" src="https://www.oficinadanet.com.br/imagens/post/12895/capa_binarios.jpg">
 </div>
   
   ##
