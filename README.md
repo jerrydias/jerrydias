@@ -17,7 +17,7 @@
   <img align="center" alt="Jerry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jerry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jerry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="jerry" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://lh6.ggpht.com/_H2VxdShzMOw/TW-88wyDPPI/AAAAAAAABJY/V_RlTPXWxJI/s1600/Url11.jpg)">
+  <img align="right" alt="jerry" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thu…x-Desktop_computer_clipart_-_Yellow_theme.svg.png">
 </div>
   
   ##
