@@ -1,4 +1,4 @@
-### Olá! Meu nome é Jerry Dias 👋
+### <h2 bold>Olá! Meu nome é Jerry Dias</h2> 👋
 
 - 🔭 Estudante de Front-end
 - 🌱 Estudante de TypeScript
