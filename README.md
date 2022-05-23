@@ -1,4 +1,4 @@
-### <h2 bold>Olá! Meu nome é Jerry Dias</h2> 👋
+### <h1 bold>Olá! Meu nome é Jerry Dias 👋</h1> 
 
 - 🔭 Estudante de Front-end
 - 🌱 Estudante de TypeScript
